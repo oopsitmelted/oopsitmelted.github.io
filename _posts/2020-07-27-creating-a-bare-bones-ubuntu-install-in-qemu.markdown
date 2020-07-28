@@ -151,3 +151,6 @@ auto ens3
 iface ens3 inet dhcp
 {% endhighlight %}
 
+# Links that I used for reference
+<http://tic-le-polard.blogspot.com/2015/04/qemu-create-complete-system-image.html>  
+<https://itnext.io/how-to-create-a-custom-ubuntu-live-from-scratch-dd3b3f213f81>
